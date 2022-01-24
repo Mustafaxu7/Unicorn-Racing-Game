@@ -1,0 +1,8 @@
+.unicorn{
+    width:7vh;
+    height:5vh;
+    position:absolute;
+    background: url(./images/rainbowUnicorn.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+}
