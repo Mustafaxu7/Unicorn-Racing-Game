@@ -9,7 +9,6 @@ function setup() {
         uniDivs[i].style.left = 0 + "%"
 
         uniDivs[i].style.top = [i] * 5 + "%"
-        // uniDivs[i].style.backgroundColor = colors[i]
         i++
 
 
